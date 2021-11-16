@@ -5,7 +5,7 @@ Blogpost is a blog app that allows people from around the world to write posts o
 
 
 ## Live link
-Visit the application on 
+Visit the application on https://julieblogs.herokuapp.com/blogs
 
 ## Development
 To make advancements/modifications, follow these steps:
